@@ -1,0 +1,6 @@
+{
+  "name": "90 Days",
+  "description": "Personal study system, 90-day challenge tracker, routine schedules, study materials, notes, calendar events, and task tracking dashboard with push notifications, cloud sync, and offline dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
